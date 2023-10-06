@@ -1,0 +1,10 @@
+{
+      "sqltools.connections": [
+            {
+                  "previewLimit": 50,
+                  "driver": "SQLite",
+                  "name": "padhakku",
+                  "database": "${workspaceFolder:padhakku_assignment}/padhakku.db"
+            }
+      ]
+}
